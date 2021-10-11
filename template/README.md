@@ -1,7 +1,6 @@
 # (título) -- Projeto Integrador II
 
 Acesso rápido:
-  - [Introdução](./README.md)
   - [Concepção](./concepcao.md)
   - [Design/Projeto](./desig.md)
   - [Implementação](./implementacao.md)
